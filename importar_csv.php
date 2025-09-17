@@ -62,7 +62,7 @@ try {
 
   $PDO->commit();
   fclose($handle);
-  header('Location: index.php?msg=import_ok');
+  header('Location:index.html?msg=import_ok');
   exit;
 
 } catch (Exception $e) {

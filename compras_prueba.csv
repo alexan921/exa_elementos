@@ -1,0 +1,6 @@
+prov_documento,prov_nombre,prov_email,fecha_compra,codigo,nombre_producto,marca,cantidad,valor_unitario
+1001,Camila A,proveedora@email.com,2025-09-01 10:30:00,P001,Teclado,MecanicoX,5,120000
+1002,Felipe B,proveedorb@email.com,2025-09-02 15:45:00,P002,Mouse,Logitech,10,80000
+1003,Pedro C,proveedorc@email.com,2025-09-03 09:00:00,P003,Monitor,Samsung,3,950000
+1001,Sofia D,proveedora@email.com,2025-09-04 14:20:00,P004,Auriculares,HyperX,7,150000
+1004,Sebastianr E,proveedord@email.com,2025-09-05 11:10:00,P005,Laptop,Lenovo,2,3200000
